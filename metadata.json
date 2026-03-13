@@ -1,0 +1,5 @@
+{
+  "name": "Suno.Arch",
+  "description": "A high-fidelity interface for generating and refining Suno AI music prompts, lyrics, and parameter configurations.",
+  "requestFramePermissions": []
+}
